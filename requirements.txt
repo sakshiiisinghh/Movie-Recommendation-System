@@ -1,4 +1,6 @@
-pandas==2.2.2
-Requests==2.32.3
-streamlit==1.35.0
+streamlit
+pandas
+numpy
+requests
+scikit-learn  # Needed for similarity matrix functions
 gdown
